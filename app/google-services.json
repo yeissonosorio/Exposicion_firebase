@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239853769490",
+    "project_id": "exposicionfirebase-2a252",
+    "storage_bucket": "exposicionfirebase-2a252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239853769490:android:8d82950af51b74205019cb",
+        "android_client_info": {
+          "package_name": "com.example.exposicion_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebaMxXEpL5MnAg7fVsDYFYvpo2Zvmxcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
